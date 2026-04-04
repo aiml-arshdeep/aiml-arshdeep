@@ -8,6 +8,7 @@ I am a passionate Python developer building intellgent solutions and mastering d
  * **Specialization:** Artificial Intelligence & Machine Learning(AIML)🤖
  * **Current Focus:** Scientific Computing with Python (freeCodeCamp) 🎓
 ###📊 My Efficiency & Activity:
+
 ![Arshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiml-arshdeep&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-arshdeep&layout=compact&theme=radical)
 ---
