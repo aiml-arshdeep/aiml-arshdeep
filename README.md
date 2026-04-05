@@ -10,10 +10,10 @@ I am a passionate Python developer building intellgent solutions and mastering d
    
 ###📊 My Efficiency & Activity:
 
-![Arshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiml-arshdeep&show_icons=true&theme=radical&v=1)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aiml-arshdeep&show_icons=true&theme=radical&v=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-arshdeep&layout=compact&theme=radical&v=1)
----
 
+---
 ### How to reach me:
 * Working towards financial independence and professional growth.📈
 * [LinkedIn](https://www.linkedin.com/in/arshdeep-kaur-6776653a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
