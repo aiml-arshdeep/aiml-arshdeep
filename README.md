@@ -10,8 +10,8 @@ I am a passionate Python developer building intellgent solutions and mastering d
    
 ###📊 My Efficiency & Activity:
 
-![Arshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiml-arshdeep&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-arshdeep&layout=compact&theme=radical)
+![Arshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiml-arshdeep&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-arshdeep&layout=compact&theme=radical&v=1)
 ---
 
 ### How to reach me:
